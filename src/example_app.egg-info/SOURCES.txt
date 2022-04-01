@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/cli/__init__.py
+src/cli/example.py
+src/example_app.egg-info/PKG-INFO
+src/example_app.egg-info/SOURCES.txt
+src/example_app.egg-info/dependency_links.txt
+src/example_app.egg-info/entry_points.txt
+src/example_app.egg-info/top_level.txt
+src/worker/__init__.py
+src/worker/worker.py
